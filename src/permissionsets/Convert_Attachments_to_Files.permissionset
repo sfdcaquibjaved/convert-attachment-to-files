@@ -72,10 +72,7 @@
         <apexClass>ConvertAttachmentsToFilesService</apexClass>
         <enabled>false</enabled>
     </classAccesses>
-    <classAccesses>
-        <apexClass>ConvertAttachmentsToFilesServiceTest</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
+   
     <description>Grants access to the Conversion Settings tab and visualforce pages. This should only be granted to System Administrators.</description>
     <fieldPermissions>
         <editable>true</editable>
