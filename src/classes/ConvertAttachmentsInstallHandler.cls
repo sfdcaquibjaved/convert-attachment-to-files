@@ -1,5 +1,6 @@
 /**
  * Developed by Doug Ayers (douglascayers.com)
+ * Adding some comments
  */
 public with sharing class ConvertAttachmentsInstallHandler implements InstallHandler {
 
